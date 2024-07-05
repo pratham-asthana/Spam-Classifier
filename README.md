@@ -9,7 +9,7 @@ The project includes several scripts for different stages of the spam classifica
 - Firstly, the file 'Spam_Classifier.ipynb' has to be executed block by block which will create/update the pickle files along with it.
 - To execute the Interface,
   - Open Windows Powershell
-  - Open the folder where you saved the programs and files using the command 'cd <your folder name>'
+  - Open the folder where you saved the programs and files using the command 'cd your folder name'
   - Then type the command 'streamlit run Spam-Classifier.py'
 # Contribution
 Contributions are welcome! If you have any improvements or suggestions, feel free to open an issue or submit a pull request.
