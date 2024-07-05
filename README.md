@@ -11,8 +11,8 @@ The project includes several scripts for different stages of the spam classifica
   - Open Windows Powershell
   - Open the folder where you saved the programs and files using the command 'cd <your folder name>'
   - Then type the command 'streamlit run Spam-Classifier.py'
-# Contributing
+# Contribution
 Contributions are welcome! If you have any improvements or suggestions, feel free to open an issue or submit a pull request.
 # Credits
-- This project is made by ### Pratham Asthana
-- Dataset used is been derived from the source ### Kaggle
+- This project is made by Pratham Asthana
+- Dataset used is been derived from the source Kaggle
