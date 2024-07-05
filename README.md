@@ -1,5 +1,5 @@
 # Spam-Classifier
-#Introduction
+# Introduction
 Spam message classification is a common problem in the field of Natural Language Processing (NLP). This project focuses on building a machine learning model to automatically classify messages as spam or not spam. The project uses various text processing techniques and machine learning algorithms to achieve this task.
 # Dataset
 The dataset used in this project is a collection of labeled messages from kaggle, where each message is marked as spam or ham. The dataset is available in the data directory named:
